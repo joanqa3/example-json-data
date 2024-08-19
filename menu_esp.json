@@ -5,7 +5,7 @@
         "title": "Ensalada Griega",
         "description": "La famosa ensalada griega con lechuga crujiente, pimientos, aceitunas y nuestro aderezo especial.",
         "price": "10",
-        "image": "https://joanqa3.github.io/example-json-data/images/plato_01.jpg?raw=true",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/plato_01.jpg?raw=true",
         "category": "entrantes"
       },
       {
@@ -13,7 +13,7 @@
         "title": "Bruschetta",
         "description": "Bruschetta al horno rellena de tomates y hierbas aromáticas.",
         "price": "8",
-        "image": "https://joanqa3.github.io/example-json-data/images/plato_02.jpg?raw=true",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/plato_02.jpg?raw=true",
         "category": "entrantes"
       },
       {
@@ -21,7 +21,7 @@
         "title": "Sopa de Tomate",
         "description": "Sopa cremosa de tomate con un toque de albahaca fresca.",
         "price": "7",
-        "image": "https://joanqa3.github.io/example-json-data/images/plato_03.jpg?raw=true",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/plato_03.jpg?raw=true",
         "category": "entrantes"
       },
       {
@@ -29,7 +29,7 @@
         "title": "Tortilla Española",
         "description": "Tortilla de patatas clásica con cebolla caramelizada.",
         "price": "9",
-        "image": "https://joanqa3.github.io/example-json-data/images/plato_04.jpg?raw=true",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/plato_04.jpg?raw=true",
         "category": "entrantes"
       },
       {
@@ -37,7 +37,7 @@
         "title": "Pescado a la Parrilla",
         "description": "Filete de pescado a la parrilla con ajo y aceite de oliva.",
         "price": "15",
-        "image": "https://joanqa3.github.io/example-json-data/images/plato_05.jpg?raw=true",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/plato_05.jpg?raw=true",
         "category": "platos principales"
       },
       {
@@ -45,7 +45,7 @@
         "title": "Pasta",
         "description": "Penne con berenjenas fritas, tomates cherry, salsa de tomate, chile fresco, ajo, albahaca y queso ricotta salado.",
         "price": "12",
-        "image": "https://joanqa3.github.io/example-json-data/images/plato_06.jpg?raw=true",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/plato_06.jpg?raw=true",
         "category": "platos principales"
       },
       {
@@ -53,7 +53,7 @@
         "title": "Paella",
         "description": "Paella tradicional española con mariscos, pollo y azafrán.",
         "price": "18",
-        "image": "https://joanqa3.github.io/example-json-data/images/plato_07.jpg?raw=true",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/plato_07.jpg?raw=true",
         "category": "platos principales"
       },
       {
@@ -61,7 +61,7 @@
         "title": "Pollo al Horno",
         "description": "Pollo al horno marinado con hierbas y limón.",
         "price": "14",
-        "image": "https://joanqa3.github.io/example-json-data/images/plato_08.jpg?raw=true",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/plato_08.jpg?raw=true",
         "category": "platos principales"
       },
       {
@@ -69,7 +69,7 @@
         "title": "Tarta de Limón",
         "description": "Tarta tradicional italiana de limón y ricotta hecha en casa.",
         "price": "7",
-        "image": "https://joanqa3.github.io/example-json-data/images/plato_09.jpg?raw=true",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/plato_09.jpg?raw=true",
         "category": "postres"
       },
       {
@@ -77,7 +77,7 @@
         "title": "Tiramisú",
         "description": "Tiramisú clásico con café espresso y cacao.",
         "price": "8",
-        "image": "https://joanqa3.github.io/example-json-data/images/plato_10.jpg?raw=true",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/plato_10.jpg?raw=true",
         "category": "postres"
       },
       {
@@ -85,7 +85,7 @@
         "title": "Flan",
         "description": "Flan casero con caramelo.",
         "price": "6",
-        "image": "https://joanqa3.github.io/example-json-data/images/plato_11.jpg?raw=true",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/plato_11.jpg?raw=true",
         "category": "postres"
       },
       {
@@ -93,7 +93,7 @@
         "title": "Churros con Chocolate",
         "description": "Churros fritos crujientes servidos con una rica salsa de chocolate.",
         "price": "9",
-        "image": "https://joanqa3.github.io/example-json-data/images/plato_12.jpg?raw=true",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/plato_12.jpg?raw=true",
         "category": "postres"
       }
     ]
