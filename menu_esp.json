@@ -95,7 +95,23 @@
         "price": "9",
         "image": "https://github.com/joanqa3/example-json-data/blob/main/images/plato_12.jpg?raw=true",
         "category": "postres"
-      }
+      },
+      {
+        "id": 13,
+        "title": "Cerveza",
+        "description": "Refrescante cerveza artesanal con un toque de limón ;)",
+        "price": "5",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/cerveza.jpg?raw=true",
+        "category": "bebidas"
+      },
+      {
+        "id": 14,
+        "title": "Limonchelo",
+        "description": "Limonchelo italiano tradicional, perfecto para después de la cena.",
+        "price": "6",
+        "image": "https://github.com/joanqa3/example-json-data/blob/main/images/limonchelo.jpg?raw=true",
+        "category": "bebidas"
+    }
     ]
   }
   
